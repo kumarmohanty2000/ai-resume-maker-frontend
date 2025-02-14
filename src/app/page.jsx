@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { Button } from "@/components/ui/button"
 import { ChevronRight, Briefcase, FileText, Users, ClipboardList } from 'lucide-react'
+// import socialMediaCard from '@/components/ui/socialMediaCard'
 
 export default function Home() {
   return (
